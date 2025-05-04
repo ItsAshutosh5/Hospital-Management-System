@@ -44,10 +44,10 @@ Tables used:
 -------------
 1. Clone the git repository into your system.
 
-2. Compile all Java files while the path is set to project root folder in CMD:
+2. Compile all Java files while the path is set to project root folder in CMD:<br>
    javac model/\*.java service/\*.java main/\*.java util/\*.java
 
-3. Run the application:
+3. Run the application:<br>
    java main.HospitalManagement
 
 4. Make sure MySQL is set up and the `create_tables.sql` is executed before running.
