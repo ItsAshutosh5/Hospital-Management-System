@@ -8,9 +8,9 @@ and threading for background system monitoring.
 
 👨‍💻 Creators
 -------------
-- Aparna Sharma (235UCS131)
 - Kanishka Tyagi (235UCS066)
 - Sakshi Singh (235UCS106)
+- Aparna Sharma (235UCS131)
 - Ashutosh Ranjan Tripathi (235UCS130)
 
 📌 Features
