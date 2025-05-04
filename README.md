@@ -45,7 +45,7 @@ Tables used:
 1. Clone the git repository into your system.
 
 2. Compile all Java files:
-   javac model/*.java service/*.java main/*.java util/*.java
+   javac model/\*.java service/*.java main/*.java util/*.java
 
 3. Run the application:
    java main.HospitalManagement
