@@ -1,4 +1,3 @@
-
 🏥 Hospital Management System (Java CLI Project)
 
 A simple, modular, command-line based Hospital Management System built using Java. 
