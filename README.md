@@ -44,7 +44,7 @@ Tables used:
 -------------
 1. Clone the git repository into your system.
 
-2. Compile all Java files:
+2. Compile all Java files while the path is set to project root folder in CMD:
    javac model/\*.java service/\*.java main/\*.java util/\*.java
 
 3. Run the application:
