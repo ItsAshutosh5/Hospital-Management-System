@@ -41,32 +41,6 @@ Tables used:
 
 > SQL script to create tables is included in `create_tables.sql`
 
-🗂️ Project Structure
----------------------
-HospitalManagement/
-│
-├── model/
-│   ├── Person.java
-│   ├── Doctor.java
-│   ├── Patient.java
-│   ├── Appointment.java
-│   └── Bill.java
-│
-├── service/
-│   ├── HospitalService.java
-│   └── HospitalServiceImpl.java
-│
-├── db/
-│   └── DBConnection.java
-│
-├── util/
-│   └── CustomException.java
-│
-├── main/
-│   └── HospitalManagement.java
-│
-└── create_tables.sql
-
 ▶️ How to Run
 -------------
 1. Clone the git repository into your system.
