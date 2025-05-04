@@ -15,7 +15,7 @@ and threading for background system monitoring.
 📌 Features
 -----------
 - Add & view Doctors, Patients, Appointments, and Bills
-- Stores data persistently using MySQL or SQLite
+- Stores data persistently using MySQL
 - Uses Threading to monitor system status in background
 - Implements OOP Concepts:
   - Abstraction (via abstract classes)
